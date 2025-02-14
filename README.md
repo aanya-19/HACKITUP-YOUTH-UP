@@ -24,8 +24,11 @@ live at: https://youthup-nu.vercel.app/index.html
 - Virtual Pitch Platform
 - Brand Advertisement
 - Brand Name Generator
-- Trend Analyzer
+- Trend Analyzer // and download PDF 
 - Manage Events
 - Motivational Corner
 - Government Policies in India
 - Multinigual
+
+## Website Overview
+### Home Page
