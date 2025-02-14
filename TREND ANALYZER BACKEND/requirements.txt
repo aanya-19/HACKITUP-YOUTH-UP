@@ -1,0 +1,6 @@
+Flask
+Flask-CORS
+Flask-Caching
+pandas
+pytrends
+gunicorn  # Required for production deployment
